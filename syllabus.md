@@ -8,7 +8,7 @@
 
     Prerequisite: None
 
-#### Gitbook Repository:
+#### Gitbook Repository: https://shfitz.gitbooks.io/ideation-and-prototyping/content/
 
 #### Course Management Site: http://bxmc.slack.com
 

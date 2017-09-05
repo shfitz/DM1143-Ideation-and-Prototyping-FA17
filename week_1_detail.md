@@ -1,8 +1,3 @@
-```
-### DM-UY 1143 Ideation and Prototyping
-```
-
-```markdown
 ### DM-UY 1143 Ideation and Prototyping
 ##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
@@ -32,7 +27,7 @@
 </ul>
 <strong>Overview of Course / Review Syllabus</strong>
 <ul>
- <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook and/or annotate directly on gitbook (I'll show you how on the first day of class).</li>
+ <li>Please direct message Scott on slack if you find any broken links or typos in the syllabus gitbook and/or annotate directly on gitbook (I'll show you how on the first day of class).</li>
  <li>Discuss course &amp; learning objectives in syllabus</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
 </ul>
@@ -76,7 +71,7 @@ Discuss:
 
 <!-- film -->
 <tr>
-<td>film and post by Wednesday at 8pm</td>
+<td>film and post by Wednesday at 6pm</td>
 <td></td>
 <td><a href="personal_inventory.md">Your Personal Inventory</a></td>
 </tr>
@@ -85,7 +80,7 @@ Discuss:
 <tr>
 <td>write (on your process website)</td>
 <td></td>
-<td>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</td>
+<td>Write short responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</td>
 </tr>
 
 <!-- do -->
@@ -98,11 +93,6 @@ Discuss:
   <td valign="top">
   <ul>
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
-  <li>Post your wordpress or tumblr URL to the ip_fa16 slack channel</li>
+  <li>Post your wordpress or tumblr URL to the slack</li>
   </td>
 </table>
-
-```
-
-
-

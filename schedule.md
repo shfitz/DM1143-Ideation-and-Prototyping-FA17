@@ -17,11 +17,11 @@ _The class website is the official source for all dates and assignments; the syl
 </tr>
 <tr>
 <td>1</td>
-<td><a href="week_1_detail_sep_6.md">Sep 5<br>
+<td><a href="week_1_detail.md">Sep 5<br>
 <ul>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li></a></td>
-        <td><a href="week_1_detail_sep_6.md">Sep 7<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
+        <td><a href="week_1_detail.md">Sep 7<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
     </tr>
         <tr>
         <td>2</td>

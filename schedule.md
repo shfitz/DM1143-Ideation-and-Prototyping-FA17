@@ -133,11 +133,12 @@ _The class website is the official source for all dates and assignments; the syl
         <td>Nov 14<br>
         <a href="week_11_detail_nov_15.md">
         <ul>
-        <li></li>
-       <li><strong>Get Training at Tandon's MakerSpace from 10:30 - 12pm.</strong> I have confirmed a special safety training session as well as laser cutter and 3D printer training just for this class.</li></ul></a></td>
+
+       <li>Get Training at Tandon's MakerSpace from 10:30 - 12pm.</li></ul></a></td>
         <td>Nov 16<br><a href="week_11_detail_nov_15.md">
         <ul>
-        <li></li>
+        <li>Fabrication and process</li>
+        <li>Paper prototyping</li>
         </ul></a></td>
     </tr>
     <tr>

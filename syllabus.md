@@ -144,7 +144,7 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 *   **A Exceptional** (Work of exceptional quality; Exceeds Expectations)
 *   **A- Excellent** (Work of high quality)
 *   **B+ Very Good**
-*   **B Good** (Solid work, though not of the highest level)
+*   **B Good** (fulfills course requirements and demonstrates original applications)
 *   **B-**
 *   **C+ ** (A little above average)
 *   **C Satisfactory** (Average; Satisfies course requirements)
@@ -158,6 +158,11 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 
 Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
 
+Special note on phones. Cellphone use in the classroom is not acceptable. Turn you phone off, or put it airplane mode. Think of the battery life you'll be saving. If you are using a phone in class, it will count as an unexcused absence and negatively affect your grade.
+
+### ATTENDANCE
+
+Needless to say, attendance is mandatory. So it being in class on time. You can get away with 2 unexcused absences, but after that, every missed class will cause your grade to fall by a third of a letter (A- becomes B+, B becomes B-, etc). more than 5 unexcused absences and you fail the course. 
 
 ### ACADEMIC HONESTY
 

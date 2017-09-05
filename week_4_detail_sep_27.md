@@ -1,5 +1,5 @@
 # DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 4
@@ -9,7 +9,7 @@
 <tr>
 <td>wk</td>
 <td>Tuesdays (due on date listed)</td>
-<td>Thursdays (due on date listed)</td> 
+<td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
   <td valign="top">4</td>
@@ -36,7 +36,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
   <ul>
-  
+
   <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 <ul>
 <li>Compare and Contrast Individual Annotated Bibliography</li>
@@ -45,7 +45,7 @@
 </ul>
   </ul>
 </td>
- 
+
 </tr>
 
 <!-- watch -->
@@ -57,12 +57,12 @@
 <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
 <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
 </ul></td>
-  <td></td> 
+  <td></td>
 </tr>
 
-<!-- read 
+<!-- read
 <tr>
-  <td valign="top">read</td> 
+  <td valign="top">read</td>
   <td></td>
   <td></td>
 </tr>-->
@@ -86,9 +86,6 @@
    <li>Each team member should bring in their own text or image storyboard and compare and contrast.</li>
    </ul>
   <li>(if applicable this week), your <a href="">constant input assignment</a></li>
- 
+
   </ul></td>
 </table>
-
-
-

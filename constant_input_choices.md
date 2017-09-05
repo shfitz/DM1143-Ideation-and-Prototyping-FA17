@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 # Constant Input Choices
 
@@ -37,5 +37,5 @@ What’s new and different in your life in the following categories? Why does it
     *   [Nicole Meyer’s A logo a day for branding 10,000 lakes](http://www.psfk.com/2011/09/branding-10000-lakes-one-minnesota-lake-one-logo-every-day.html)
     *   [Terry Difileliciantonio’s 15 weeks of games](https://15weeksofgames.wordpress.com/)
     *   [Dear Data](http://www.dear-data.com/theproject) by Giorgia Lupi and Stefanie Posavec
-    
+
 **Also remember it does NOT have to be digital or visual.** It could be aural (i.e. music or soundscapes), culinary, etc. etc. times a gazillion possibilities. **The main requirement is that it is a creative project.**

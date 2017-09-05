@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 # Recommended Resources
 
@@ -57,12 +57,12 @@ _Sketching_
 _Mapping_
 
 *   _Web Redesign 2.0 | Workflow That Works_ by Kelly Goto &amp; Emily Cotler
-*   _How to Make Sense of Any Mess: Information Architecture for Everybody 1.0 Edition_ by Abby Covert 
+*   _How to Make Sense of Any Mess: Information Architecture for Everybody 1.0 Edition_ by Abby Covert
 *   Any Edward Tufte book
 
 _Prototyping_
 
-*   _[Getting Real](http://gettingreal.37signals.com)_ by 37Signals 
+*   _[Getting Real](http://gettingreal.37signals.com)_ by 37Signals
 *   _Show Your Work_ by Austin Kleon
 
 **Recommended Writing Resources**
@@ -76,9 +76,9 @@ _Prototyping_
 **Recommended Media**
 
 *   [Afrigadget](http://www.afrigadget.com)
-*   Brown, Tim. “[Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf)” Harvard Business Review. June 2008. 
+*   Brown, Tim. “[Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf)” Harvard Business Review. June 2008.
 *   Citizen Architect, Sam Mockbee &amp; Rural Studio –http://video.pbs.org/program/1548466406
-*   Cognitive Media [Process](https://www.wearecognitive.com/our-process) and [Work](https://www.wearecognitive.com/our-work) (visual scribing / note-taking) 
+*   Cognitive Media [Process](https://www.wearecognitive.com/our-process) and [Work](https://www.wearecognitive.com/our-work) (visual scribing / note-taking)
 *   Dan Roam: [&quot;Blah Blah Blah: What To Do When Words Don&#039;t Work&quot;](https://www.youtube.com/watch?v=PsrFuXefZ1Q)  | Talks at Google
 *   ["The Deep Dive,"](http://www.youtube.com/watch?v=JkHOxyafGpE) ABC's Nightline
 *   [Designing Interactions Interviews](http://www.designinginteractions.com/interviews)
@@ -104,10 +104,10 @@ _Mapping_
 * Animatic
   * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
 * Fair Use Media (images / audio /video)
-  * http://creativecommons.org 
+  * http://creativecommons.org
   * https://www.pond5.com/
-* Royalty-Free sound 
-  * [http://freesound.org](http://freesound.org) 
+* Royalty-Free sound
+  * [http://freesound.org](http://freesound.org)
   * http://freemusicarchive.org
   * http://ccmixter.org
   * http://soundbible.com
@@ -115,4 +115,3 @@ _Mapping_
   * [http://incompetech.com](http://incompetech.com)
 * Creative Commons Video
   * [http://archive.org](http://archive.org)
-

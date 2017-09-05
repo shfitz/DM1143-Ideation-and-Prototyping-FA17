@@ -1,5 +1,5 @@
 # DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 9
@@ -36,7 +36,7 @@
 <td valign="top" width="48%">
 <ul>
 <li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
-<li><a href="future.md">Future Dystopia / Utopia Project:</a> 
+<li><a href="future.md">Future Dystopia / Utopia Project:</a>
         <strong>
         <ul>
         <li>Ideation</li>
@@ -44,14 +44,7 @@
         </strong>
         </ul>
         </td>
- 
+
 </tr>
 </td>
 </table>
-
-
-
-
-
-
-

@@ -1,5 +1,5 @@
 # DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 14
@@ -48,7 +48,7 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
         <ul>
         <li>Storyboard Draft</li>
         <li>Lo-fi Prototype Draft</li>
-        
+
         </ul>
         </strong>
         </ul></td>
@@ -66,15 +66,3 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
  </td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-

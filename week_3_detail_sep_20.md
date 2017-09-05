@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 3
@@ -40,7 +40,7 @@
   </ul>
 </ul>
 </td>
- 
+
 </tr>
 
 <!-- watch -->
@@ -51,7 +51,7 @@
   <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
   <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
   </ul></td>
-  <td></td> 
+  <td></td>
 </tr>
 
 <!-- write -->
@@ -67,7 +67,7 @@ Do not write summaries. In other words, do not regurgitate. Discuss any epiphani
 insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</td>
 <td>Research one or more of the following artists for inspiration and post your findings and response on your process website:
 <ol>
-<Li>Sherrie Levine</li> 
+<Li>Sherrie Levine</li>
 <li>Marcel Duchamp</li>
 <li>Joseph Cornell</li>
 <li>Felix Gonzalez-Torrez</li>
@@ -90,4 +90,3 @@ insights that occurred while watching, how it reflects your own process (or does
   </li>
   </ul></td>
 </table>
-

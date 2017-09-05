@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 # Printed Assignment Guidelines
 
@@ -14,7 +14,3 @@ Any printed work that you will turn in, should always contain the following:
 *   Duff
 
 All written assignments should be submitted as a pdf on slack as a direct message to the instructor.
-
-
-
-

@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 # Self Assessments
 
@@ -7,6 +7,6 @@ Any action without reflection is meaningless. Real learning only occurs as part 
 
 You will synthesis what you are noticing in your notebook, readings, writings, and creating with regard to your learning. Each self assessment should have a minimum of three citations from lectures, weekly discussions, and/or readings.
 
-There will be two self assessments for the course. One will be due at midterm and the other at the end of the semester. These reflective writings will require you to critically evaluate your process and execution in the class. 
+There will be two self assessments for the course. One will be due at midterm and the other at the end of the semester. These reflective writings will require you to critically evaluate your process and execution in the class.
 
 **Each assessment should be direct messaged to the instructor as a pdf on Slack.**

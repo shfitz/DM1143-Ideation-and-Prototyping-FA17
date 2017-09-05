@@ -1,5 +1,5 @@
 # DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 7
@@ -28,7 +28,7 @@
         <ul>
         <li>Hybrid Animatic / Video Draft</li>
         </ul></td>
- 
+
 </tr>
 
 
@@ -40,20 +40,16 @@
   <ul>
   <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
         <ul>
-      
+
         <li>Hybrid Animatic / Video Draft</li>
         </ul></ul></td>
   <td valign="top">
   <ul>
   <li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
   <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
-        
+
         <ul>
         <li>Hybrid Animatic / Video Draft</li>
-      
+
         </ul></ul></td>
 </table>
-
-
-
-

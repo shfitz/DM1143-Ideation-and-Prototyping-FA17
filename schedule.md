@@ -1,6 +1,6 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
-# DRAFT FORM - NOT FINAL
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
+# This schedule is schedule to change!
 # Schedule
 
 _The class website is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below._
@@ -24,7 +24,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td><a href="week_1_detail.md">Sep 7<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
     </tr>
         <tr>
-        <td>2</td> 
+        <td>2</td>
         <td valign="top"><a href="week_2_detail.md">Sept 12<br>Phase 1: Discovery / Inspiration / Process: <strong>Input Maps</strong></a></td>
         <td valign="top"><a href="week_2_detail.md">Sep 14<br>Phase 2: Research / Ideation / Brainstorming: <strong>Media Studies</strong></a></td>
     </tr>
@@ -52,7 +52,7 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Team Annotated Bibliography Draft</li>
         <li>Team Image or Text Storyboard Draft</li>      
         </ul></strong></a></td>
-        <td><a href="week_5_detail.md">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary 
+        <td><a href="week_5_detail.md">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary
         <strong>
         <ul>
         <li>(if applicable) Team Annotated Bibliography Draft</li>
@@ -69,7 +69,7 @@ _The class website is the official source for all dates and assignments; the syl
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
-        <td><a href="week_6_detail.md">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary: 
+        <td><a href="week_6_detail.md">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft or</li>
@@ -79,7 +79,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail.md">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
+        <td><a href="week_7_detail.md">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft</li>
@@ -96,19 +96,19 @@ _The class website is the official source for all dates and assignments; the syl
         <td>8</td>     
         <td><a href="week_8_detail.md">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
         <td valign="top"><a href="week_8_detail.md">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
-    </tr> 
+    </tr>
     <tr>
         <td>9</td>      
-        <td valign="top"><a href="week_9_detail.md">Oct 31<br>Creative Process Annotated Bibliography and Video Documentary: 
+        <td valign="top"><a href="week_9_detail.md">Oct 31<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></as></td>
-        <td><a href="week_9_detail.md">Nov 2<br>Future Dystopia / Utopia Project: 
+        <td><a href="week_9_detail.md">Nov 2<br>Future Dystopia / Utopia Project:
         <strong>
         <ul>
-        <li>Ideation</li> 
+        <li>Ideation</li>
         </ul>
         </strong></a></td>
     </tr>
@@ -119,7 +119,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>10</td>     
         <td>Nov 7<br><a href="week_10_detail.md">Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
-        Future Dystopia / Utopia Project: 
+        Future Dystopia / Utopia Project:
         <strong><ul>
         <li>Ideation continued</li>     
         </ul></strong></a></td>
@@ -143,7 +143,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><a href="week_12_detail.md">Future Dystopia / Utopia Project: 
+        <td>Nov 22<br><a href="week_12_detail.md">Future Dystopia / Utopia Project:
         <ul>
         <li><strong>Storyboard Draft</li>
         <li>(OPTIONAL) Lo-fi Prototype Draft</li>
@@ -152,7 +152,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>13</td>  
-        <td><a href="week_13_detail.md">Nov 28<br>Future Dystopia / Utopia Project: 
+        <td><a href="week_13_detail.md">Nov 28<br>Future Dystopia / Utopia Project:
         <strong><ul>
         <li><strong>Storyboard Draft</li>
         <li>Lo-fi Prototype Draft</li>
@@ -187,8 +187,3 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
 </ul></strong></td>
     </tr>
 </table>
-
-
-
-
-

@@ -1,5 +1,5 @@
 # DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 10
@@ -20,9 +20,9 @@
 <td valign="top"><strong>class</strong></td>
 <td valign="top">
 <ul>
-<li>Phase 2: Research / Ideation / Brainstorming</li> 
+<li>Phase 2: Research / Ideation / Brainstorming</li>
 <ul><li><strong>Storytelling</strong></li></ul>
-<li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
+<li><a href="future.md">Future Dystopia / Utopia Project</a></li>
         <strong>
         <ul>
         <li>Discuss Ira Glass on Storytelling</li>
@@ -34,7 +34,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <ul>
-<li><a href="future.md">Future Dystopia / Utopia Project:</a> 
+<li><a href="future.md">Future Dystopia / Utopia Project:</a>
         <strong>
         <ul>
         <li>Mood Board</li>
@@ -84,7 +84,7 @@ Do at least one of the following assignments:
         </ul></td>
 <td><ul>
 <li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
-<li><a href="future.md">Future Dystopia / Utopia Project:</a> 
+<li><a href="future.md">Future Dystopia / Utopia Project:</a>
         <strong>
         <ul>
         <li>Mood Board</li>
@@ -95,16 +95,7 @@ Do at least one of the following assignments:
         <li>Useful material to be sourced may include books, articles, records and statistics (pew foundation), precedent projects, products or case studies documented in various ways, photographs, maps, diagrams, and other visual materials.</li></ul>
         </ul>
         </ul>
-        
+
         </ul></td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-

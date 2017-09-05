@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 2
@@ -43,7 +43,7 @@ Review:
 
   </ul>
 </td>
- 
+
 </tr>
 
 <!-- watch -->
@@ -61,7 +61,7 @@ Review:
   <li>Journals and Sketchbooks, p. 32-41</li>
   <li>Verbal Literacy, p. 60-67</li>
   </ul></td>
-  <td></td> 
+  <td></td>
 </tr>
 
 
@@ -83,6 +83,3 @@ Review:
 <td>Your constant input details (what are you going to do?) including proposed schedule (when? actual dates. make due dates thursdays.)</td>
 </tr>
 </table>
-
-
-

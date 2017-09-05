@@ -1,6 +1,6 @@
 ### DM-UY 1143 Ideation and Prototyping
 
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 # Creative Process Annotated Bibliography & Video Documentary
 
@@ -23,24 +23,24 @@ Possible Choices \(but not limited to\):
 * Benjamin Franklin
 * Art Fry \(Post-It Note\)
 * Bill Gates
-* Juanjo Guarnido 
+* Juanjo Guarnido
 * Alfred Hitchcock
 * Jonathan Ive
 * Frida Kahlo
 * Hideo Kojima
 * Steve Jobs
 * Sal Khan \(Khan Academy\)
-* Stephen King 
+* Stephen King
 * [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
 * David Lynch
-* Hayao Miyazaki 
-* Christopher Nolan 
+* Hayao Miyazaki
+* Christopher Nolan
 * Gordon Parks
 * Philippe Petit
 * Pablo Picasso
-* J.K. Rawlings 
+* J.K. Rawlings
 * Robert Rodriguez
-* Mike Rottenberg 
+* Mike Rottenberg
 * Paula Scher
 * Twyla Tharp
 
@@ -67,6 +67,3 @@ Your team’s video documentary must be 1 to 3 minutes long and be executed with
 The process documentary will reveal:
 
 * the discoveries your team made about your subject, and, more specifically how these discoveries will inform or have informed both of your own creative processes, etc.
-
-
-

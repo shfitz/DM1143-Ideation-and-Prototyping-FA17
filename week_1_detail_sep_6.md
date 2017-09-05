@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
 
 ---
 ## [Schedule:](schedule.md) Week 1
@@ -58,14 +58,14 @@ Discuss:
   <li>Verbal Literacy
   </ul>
 </td>
- 
+
 </tr>
 
 <!-- watch -->
 <tr>
   <td valign="top">watch</td>
   <td></td>
-  <td>Watch at least three of your classmates' personal inventory videos.</td> 
+  <td>Watch at least three of your classmates' personal inventory videos.</td>
 </tr>
 
 
@@ -96,4 +96,3 @@ Discuss:
   <li>Post your wordpress or tumblr URL to the ip_fa16 slack channel</li>
   </td>
 </table>
-

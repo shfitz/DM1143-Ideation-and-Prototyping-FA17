@@ -123,10 +123,9 @@ _The class website is the official source for all dates and assignments; the syl
         <strong><ul>
         <li>Ideation continued</li>     
         </ul></strong></a></td>
-        <td><a href="week_10_detail_nov_8.md">Nov 9<br>Future Dystopia / Utopia Project: <strong>
+        <td><a href="week_10_detail_nov_8.md">Nov 9<br>Scott's gone <strong>
         <ul>
-        <li>Sketching and Mapping</li>
-        <li>Secondary Research</li>
+        <li>we will figure out a solution</li>
         </ul></strong></a></td>
     </tr>
     <tr>

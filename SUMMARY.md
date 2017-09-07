@@ -7,7 +7,7 @@
   * [Week 2 Detail Sep 12](week_2_detail.md)
 * [Assignments](assignments.md)
   * [Constant Input Choices](constant_input_choices.md)
-  * [Inputs Map](input_map.md)
+  * [Input Map](input_map.md)
   * [Personal Inventory](personal_inventory.md)
   * [Classmate Discovery](classmate_discovery.md)
   * [Evolution Timeline](evolution_timeline.md)

@@ -64,8 +64,6 @@ Discuss:
 <!-- Homework -->
 <tr>
   <td valign="top">Homework</td>
-  <td></td>
-  <td></td>
 </tr>
 
 

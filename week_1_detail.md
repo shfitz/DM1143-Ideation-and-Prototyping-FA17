@@ -91,14 +91,14 @@ Discuss:
 
 <!-- film -->
 <tr>
-<td>film</td>
+<td valign="top">film</td>
 <td><a href="personal_inventory.md">Your Personal Inventory</a></td>
 <td></td>
 </tr>
 
 <!-- write -->
 <tr>
-<td>write</td>
+<td valign="top">write</td>
 <td>Post your inventory video to your process website</td>
 <td><ul><li>Write your first input or output post. Let me know in advance through Slack which you will be doing. These wil be due every week before Tuesday's class.</li>
 <li>After reading the above articles and watching the video, write a reading response to the media that resonated with you the most. <i>Do not write a summary.</i> That is, do not regurgitate what the authour wrote. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it may inform or change your own process (or will not and why).  You should be able to comment on the video <i>and</i> the articles in terms of what works for you and what doesn't.</li>

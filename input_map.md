@@ -8,7 +8,7 @@ Create a mind map or concept map of all of the various inputs in your life \(i.e
 
 Post to your process website. You may have to upload micro and macro views of your map as images.
 
-Here's a "[how to mind map](https://imindmap.com/how-to-mind-map/)" explainer.
+Here's a "[how to mind map](https://imindmap.com/how-to-mind-map/)" explanation.
 
 For those of you who want to use a digital tool you might consider using one of the following:
 

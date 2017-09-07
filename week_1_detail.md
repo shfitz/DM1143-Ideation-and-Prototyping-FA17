@@ -68,9 +68,18 @@ Discuss:
   <td>Due  Mon  9/11</td>
 </tr>
 
+<!-- read -->
+<tr><td valign="top">Read</td>
+<td></td>
+<td> <ul>
+<li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod2/content/index.html"> Brainstorming techniques</a>
+    <li>Rohde, Mike. <a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/>“Sketching: the Visual Thinking Power Tool.”</a> A List Apart. January 25, 2011.</li>
+    <li>Brown, Sunni. <a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/">“The Miseducation of the Doodle.”</a> A List Apart. January 25, 2011.</li>
 
 
-
+</ul>
+</td>
+</tr>
 
 <!-- watch -->
 <tr>
@@ -82,28 +91,33 @@ Discuss:
 
 <!-- film -->
 <tr>
-<td>film and post by Wednesday at 6pm</td>
-<td></td>
+<td>film</td>
 <td><a href="personal_inventory.md">Your Personal Inventory</a></td>
+<td></td>
 </tr>
 
 <!-- write -->
 <tr>
-<td>write (on your process website)</td>
-<td></td>
-<td>Post your inventory video</td>
+<td>write</td>
+<td>Post your inventory video to your process website</td>
+<td><ul><li>Write your first input or output post. Let me know in advance through Slack which you will be doing. These wil be due every week before Tuesday's class.</li>
+<li>After reading the above articles and watching the video, write a reading response to the media that resonated with you the most. <i>Do not write a summary.</i> That is, do not regurgitate what the authour wrote. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it may inform or change your own process (or will not and why).</li>
+</ul>
+</td>
 </tr>
 
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td><ul>
+  <td>
+  <ul>
   <li>Accept Slack Invitation</li>
   <li>Read Syllabus and Ask Questions about the course and syllabus during our first class</li>
-  </ul></td>
-  <td valign="top">
-  <ul>
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the slack</li>
+  </ul></td>
+  <td >
+
+  
   </td>
 </table>

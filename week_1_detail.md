@@ -65,8 +65,7 @@ Discuss:
 <tr>
   <td valign="top">Homework</td>
   <td>Due  Wed  9/8</td>
-    <td>Due  Mon  9/11</td>
-
+  <td>Due  Mon  9/11</td>
 </tr>
 
 
@@ -77,7 +76,7 @@ Discuss:
 <tr>
   <td valign="top">watch</td>
   <td></td>
-  <td></td>
+  <td><a href="https://www.youtube.com/watch?v=oww7oB9rjgw">Steal Like an Artist</a></td>
 </tr>
 
 

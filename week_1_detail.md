@@ -47,15 +47,15 @@ Discuss:
 Review:
 <ul>
 <li>Personal Inventories</li>
+Watch:
+<ul>
+<li><a href="https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished not Perfect</a></li>
 </ul>
 Discuss:
   <ul>
-  <li>Word Lists
+  <li>Brainstorming
   <li>Mind Maps
   <li>Concept Maps
-  <li>Freewriting
-  <li>Journals and Sketchbooks
-  <li>Verbal Literacy
   </ul>
 </td>
 
@@ -65,7 +65,7 @@ Discuss:
 <tr>
   <td valign="top">watch</td>
   <td></td>
-  <td>Watch at least three of your classmates' personal inventory videos.</td>
+  <td></td>
 </tr>
 
 

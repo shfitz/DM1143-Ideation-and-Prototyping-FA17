@@ -116,8 +116,8 @@ Discuss:
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the slack</li>
   </ul></td>
-  <td >
-
-  
+  <td ><ul>
+<li>Create an <a href="https://shfitz.gitbooks.io/ideation-and-prototyping/content/input_map.html">Input Map</a></li>
+  </ul>
   </td>
 </table>

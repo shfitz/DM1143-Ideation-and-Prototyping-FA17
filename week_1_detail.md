@@ -64,6 +64,9 @@ Discuss:
 <!-- Homework -->
 <tr>
   <td valign="top">Homework</td>
+  <td>Due  Wed  9/8</td>
+    <td>Due  Mon  9/11</td>
+
 </tr>
 
 

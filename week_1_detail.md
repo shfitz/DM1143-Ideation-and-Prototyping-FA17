@@ -72,7 +72,7 @@ Discuss:
 <tr><td valign="top">Read</td>
 <td></td>
 <td> <ul>
-<li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod2/content/index.html"> Brainstorming techniques</a>
+<li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod2/content/index.html"> Brainstorming techniques</a></li>
     <li>Rohde, Mike. <a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/>“Sketching: the Visual Thinking Power Tool.”</a> A List Apart. January 25, 2011.</li>
     <li>Brown, Sunni. <a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/">“The Miseducation of the Doodle.”</a> A List Apart. January 25, 2011.</li>
 

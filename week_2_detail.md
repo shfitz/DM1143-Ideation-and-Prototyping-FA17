@@ -31,7 +31,7 @@
 </ul>
 <strong>Classmate Discovery</strong>
 <ul>
- <li>Project description</li>
+ <li><a href="classmate_discovery.html">Project description</a></li>
  <ul><li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li></ul>
   <li>Pairing</li>
 
@@ -102,13 +102,13 @@
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td>Set up a time with your classmates to do the discovery project.
+  <td>Set up a time with your classmates to do <a href="classmate_discovery.html">the discovery project</a>.
 <!-- Due wed this week -->
 </td>
   <td>
   <!-- Due Mon next week -->
 
-   Classmate discovery  
+   <a href="classmate_discovery.html">Classmate discovery</a>
 
   </td>
 </table>

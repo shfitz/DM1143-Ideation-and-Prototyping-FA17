@@ -58,9 +58,10 @@
 
 <!-- read -->
 <tr><td valign="top">Read</td>
-<td></td>
+<td>Download and read pages 39-43 on "Interviews" from IDEO's <a href="http://www.designkit.org//resources/1">Field Guide to Human Centered Design</a> (free download at the link). p 60-64 may also be helpful in getting a sense of your subject for the following assignment as well if you read it through the right lens. Generally, it's all good stuff.
+</td>
 <td><ul>
-<li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod3/content/"> Brainstorming techniques</a></li>
+<li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod3/content/"> "Everything is a Remix" and time management</a></li>
 
 </ul>
 </td>
@@ -69,24 +70,31 @@
 <!-- watch -->
 <tr>
   <td valign="top">watch</td>
-  <td></td>
-  <td></td>
+  <td><!-- Due wed this week -->
+</td>
+  <td><!-- Due next monday -->
+</td>
 </tr>
 
 
 <!-- film -->
 <tr>
 <td valign="top">film</td>
-<td></td>
-<td></td>
+<td><!-- Due wed this week -->
+</td>
+<td><!-- Due next monday -->
+</td>
 </tr>
 
 <!-- write -->
 <tr>
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
+
 </td>
 <td><ul><li>Write your second input or output post.</li>
+<li>A response to 'Everything is a remix'.  Don;t summarize, but indicate if you agree and why, or diagree and why. Post the response on your site by Monday at 5pm</li>
+
 </ul>
 </td>
 </tr>

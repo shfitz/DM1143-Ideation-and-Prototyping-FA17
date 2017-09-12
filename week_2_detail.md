@@ -90,6 +90,7 @@
 <tr>
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
+based on the IDEO reading, come up with a questionnaire for your partners.
 
 </td>
 <td><ul><li>Write your second input or output post.</li>

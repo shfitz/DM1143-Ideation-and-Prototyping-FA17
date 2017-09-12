@@ -41,7 +41,10 @@
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
-
+<!-- Due Thursday class  -->
+<ul><li>Journals and Planners</li>
+<li>Time Management and Productivity Systems for Performance Anxiety</li></ul>
+<li>Work on Discovery projects (time permitting)</li>
 </td>
 
 </tr>

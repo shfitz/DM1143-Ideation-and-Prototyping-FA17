@@ -41,19 +41,7 @@
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
-Review:
-<ul>
-<li>Personal Inventories</li>
-Watch:
-<ul>
-<li><a href="https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished not Perfect</a></li>
-</ul>
-Discuss:
-  <ul>
-  <li>Brainstorming
-  <li>Mind Maps
-  <li>Concept Maps
-  </ul>
+
 </td>
 
 </tr>
@@ -68,7 +56,7 @@ Discuss:
 <!-- read -->
 <tr><td valign="top">Read</td>
 <td></td>
-<td> <ul>
+<td><ul>
 <li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod3/content/"> Brainstorming techniques</a></li>
 
 </ul>
@@ -93,7 +81,8 @@ Discuss:
 <!-- write -->
 <tr>
 <td valign="top">write</td>
-<td></td>
+<td><!-- Due wed this week -->
+</td>
 <td><ul><li>Write your second input or output post.</li>
 </ul>
 </td>
@@ -102,9 +91,13 @@ Discuss:
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td>
-Present classmate discovery  
+  <td>Set up a time with your classmates to do the discovery project.
+<!-- Due wed this week -->
 </td>
   <td>
+  <!-- Due Mon next week -->
+
+   Classmate discovery  
+
   </td>
 </table>

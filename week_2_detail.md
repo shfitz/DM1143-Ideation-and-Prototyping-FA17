@@ -52,7 +52,7 @@
 <!-- Homework -->
 <tr>
   <td valign="top">Homework</td>
-  <td>Due  Wed  9/13</td>
+  <td>Due  Thurs  9/13  in  class</td>
   <td>Due  Mon  9/18</td>
 </tr>
 

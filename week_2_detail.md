@@ -42,9 +42,8 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <!-- Due Thursday class  -->
-<ul><li>Journals and Planners</li>
-<li>Time Management and Productivity Systems for Performance Anxiety</li></ul>
-<li>Work on Discovery projects (time permitting)</li>
+<ul><li>Review "Interviews" in IDEO’s Human-centered Design Toolkit (available free online)</li>
+<li>Work on <a href="https://www.gitbook.com/book/shfitz/ideation-and-prototyping/classmate_discovery.html">Discovery projects</a> (time permitting)</li></ul>
 </td>
 
 </tr>
@@ -73,6 +72,8 @@
   <td><!-- Due wed this week -->
 </td>
   <td><!-- Due next monday -->
+  <ul><li><a href="https://vimeo.com/139094998">Eveything Is A Remix</a>.  Be sure to <a href="http://everythingisaremix.com">peep the website</a> as well.</li>
+<li>(OPTIONAL) Exit Through The Gift Shop (you can find this on Netflix or Youtube)</li></ul>
 </td>
 </tr>
 
@@ -91,10 +92,9 @@
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
 based on the IDEO reading, come up with a questionnaire for your partners.
-
 </td>
-<td><ul><li>Write your second input or output post.</li>
-<li>A response to 'Everything is a remix'.  Don;t summarize, but indicate if you agree and why, or diagree and why. Post the response on your site by Monday at 5pm</li>
+<td><ul><li>Write your input or output post.</li>
+<li>Write a blog post responding to 'Everything is a remix' or "Exit Through the Gift Shop". Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
 
 </ul>
 </td>
@@ -108,8 +108,6 @@ based on the IDEO reading, come up with a questionnaire for your partners.
 </td>
   <td>
   <!-- Due Mon next week -->
-
-   <a href="classmate_discovery.html">Classmate discovery</a>
-
+   <a href="classmate_discovery.html">Classmate discovery</a>, due Monday at 5pm.
   </td>
 </table>

@@ -42,7 +42,10 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <!-- Due Thursday class  -->
-<ul><li>Review "Interviews" in IDEO’s Human-centered Design Toolkit (available free online)</li>
+<ul><li><a href="https://twitter.com/BeschlossDC/status/907804610294886401">This tweet</a> popped up in my timeline, and I found it relevant</li>
+<li>Meta discussion : why are we doing this? What is creativity in the first place?</li>
+
+<li>Review "Interviews" in IDEO’s Human-centered Design Toolkit (available free online)</li>
 <li>Work on <a href="https://www.gitbook.com/book/shfitz/ideation-and-prototyping/classmate_discovery.html">Discovery projects</a> (time permitting)</li></ul>
 </td>
 

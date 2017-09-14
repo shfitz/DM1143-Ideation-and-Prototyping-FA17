@@ -60,7 +60,7 @@
 <td>Download and read pages 39-43 on "Interviews" from IDEO's <a href="http://www.designkit.org//resources/1">Field Guide to Human Centered Design</a> (free download at the link). p 60-64 may also be helpful in getting a sense of your subject for the following assignment as well if you read it through the right lens. Generally, it's all good stuff.
 </td>
 <td><ul>
-<li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod3/content/"> "Everything is a Remix" and time management</a></li>
+<li>DeAngela's notes on <a href="http://teaching.polishedsolid.com/ip/mod3/content/"> "Everything is a Remix" and creativity through process</a></li>
 
 </ul>
 </td>

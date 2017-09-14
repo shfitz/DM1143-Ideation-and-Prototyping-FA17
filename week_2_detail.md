@@ -72,7 +72,7 @@
   <td><!-- Due wed this week -->
 </td>
   <td><!-- Due next monday -->
-  <ul><li><a href="https://vimeo.com/139094998">Eveything Is A Remix</a>.  Be sure to <a href="http://everythingisaremix.com">peep the website</a> as well.</li>
+  <ul><li><a href="https://vimeo.com/139094998">Eveything Is A Remix</a>.  Be sure to <a href="http://www.everythingisaremix.info/">peep the website</a> as well.</li>
 <li>(OPTIONAL) Exit Through The Gift Shop (you can find this on Netflix or Youtube)</li></ul>
 </td>
 </tr>

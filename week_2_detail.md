@@ -113,6 +113,6 @@ based on the IDEO reading, come up with a questionnaire for your partners.
 </td>
   <td>
   <!-- Due Mon next week -->
-   <a href="classmate_discovery.html">Classmate discovery</a>, due Monday at 5pm.
+   <a href="classmate_discovery.html">Classmate discovery</a>, due in class on Tues.
   </td>
 </table>

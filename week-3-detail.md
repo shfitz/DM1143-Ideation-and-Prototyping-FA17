@@ -90,14 +90,14 @@
 <td><!-- Due wed this week -->
 Research one or more of the following artists for inspiration and post your findings about the inspirations for their work and process on your website:
 <ul>
-    <li>Sherrie Levine</li>
+    <li><a href="http://magazine.art21.org/2011/04/15/how-to-explain-sherrie-levine-to-your-grandmother/">Sherrie Levine</a></li>
     <li>Marcel Duchamp</li>
     <li>Joseph Cornell</li>
     <li>Felix Gonzalez-Torrez</li>
     <li>Tectonic Industries</li>
     <li>Douglas Gordon</li>
-    <li>Christian Marclay</li>
-    <li>DJ Spooky</li>
+    <li><a a href="https://www.newyorker.com/magazine/2012/03/12/the-hours-daniel-zalewski">Christian Marclay</a></li>
+    <li><a href="http://djspooky.com/">DJ Spooky</a></li>
     <li>The Bomb Squad</li>
     <li>Georges Braque</li>
     <li>Cindy Sherman</li>

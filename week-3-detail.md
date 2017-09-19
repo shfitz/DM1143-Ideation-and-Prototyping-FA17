@@ -88,7 +88,7 @@
 <tr>
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
-Research one or more of the following artists for inspiration and post your findings and response on your process website:
+Research one or more of the following artists for inspiration and post your findings about the inspirations for their work and process on your website:
 <ul>
     <li>Sherrie Levine</li>
     <li>Marcel Duchamp</li>
@@ -99,6 +99,8 @@ Research one or more of the following artists for inspiration and post your find
     <li>Christian Marclay</li>
     <li>DJ Spooky</li>
     <li>The Bomb Squad</li>
+    <li>Georges Braque</li>
+    <li>Cindy Sherman</li>
 </ul>
 
 </td>

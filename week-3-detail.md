@@ -120,5 +120,6 @@ Research one or more of the following artists for inspiration and post your find
 </td>
   <td>
   <!-- Due Mon next week -->
+  <ul><li>Evolutionary timeline</li></ul>
   </td>
 </table>

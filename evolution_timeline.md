@@ -12,20 +12,20 @@ Select a theme of your choosing (Consider using one of the themes below to get y
 
 Possible Themes:
 
-    * Animals
-    * Commerce
-    * Education
-    * Engineering
-    * Ethics
-    * Information
-    * Materiality
-    * Media: Moving Image, Photography, Painting, Print, Sound, etc.
-    * Memory
-    * Nature
-    * Networks
-    * Ruins
-    * Science
-    * Sexuality
-    * Systems
-    * Technology
-    * Time
+* Animals
+* Commerce
+* Education
+* Engineering
+* Ethics
+* Information
+* Materiality
+* Media: Moving Image, Photography, Painting, Print, Sound, etc.
+* Memory
+* Nature
+* Networks
+* Ruins
+* Science
+* Sexuality
+* Systems
+* Technology
+* Time

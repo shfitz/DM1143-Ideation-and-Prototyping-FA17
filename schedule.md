@@ -171,9 +171,14 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>14</td>    
         <td><a href="#">Dec 5<br>TBD</td>
-        <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project: <strong><ul>      
-        <li>Hi-fi Prototype Draft</li>
-        </ul></strong></a></td>
+        <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project: 
+<ul>      
+ <li> Iterate Storyboard Draft of Delivery Medium</li>
+  <li>  Iterate Lo-fi Object Prototype Draft</li>
+
+
+        </ul>
+</a></td>
     </tr>
     <tr>
         <td>15</td>     

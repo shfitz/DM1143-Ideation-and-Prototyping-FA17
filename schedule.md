@@ -42,7 +42,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td><a href="#">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Individual Annotated Bibliography Draft</li>
-        <li>Individual Image or Text Storyboard Draft</li>
+      
         </ul></strong></a></td>
     </tr>
     <tr>
@@ -50,7 +50,8 @@ _The class website is the official source for all dates and assignments; the syl
         <td><a href="#">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Team Annotated Bibliography Draft</li>
-        <li>Team Image or Text Storyboard Draft</li>      
+        <li>Individual Image or Text Storyboard Draft</li>
+<!----  <li>Team Image or Text Storyboard Draft</li>  -->    
         </ul></strong></a></td>
         <td><a href="#">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary
         <strong>

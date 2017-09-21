@@ -70,6 +70,9 @@
 </td>
   <td><!-- Due next monday -->
 
+    <ul><li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8">Metal Gear Solid 2 Documentary</a></li>
+    <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE">Metal Gear Solid 4 Documentary</a></li> (unless you speak Japanese, be sure to turn closed captioning on)
+
 
 </td>
 </tr>

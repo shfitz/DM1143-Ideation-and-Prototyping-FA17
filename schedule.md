@@ -33,13 +33,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>3</td>    
-        <td><a href="week_3_detail_sep_20.md">Sep 19<br>Phase 3: Design / Sketching / Mapping: <strong>Classmate Discovery</strong></a></td>
-        <td valign="top"><a href="week_3_detail_sep_20.md">Sep 21<br>Phase 1: Discovery / Inspiration / <strong>Narrative Timeline</strong> </a></td>
+        <td><a href="week_3_detail.md">Sep 19<br>Phase 3: Design / Sketching / Mapping: <strong>Classmate Discovery</strong></a></td>
+        <td valign="top"><a href="week_3_detail.md">Sep 21<br>Phase 1: Discovery / Inspiration / <strong>Narrative Timeline</strong> </a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="week_4_detail_sep_27.md">Sep 26<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
-        <td><a href="week_4_detail_sep_27.md">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <td valign="top"><a href="#">Sep 26<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
+        <td><a href="#">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Individual Annotated Bibliography Draft</li>
         <li>Individual Image or Text Storyboard Draft</li>
@@ -47,12 +47,12 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_oct_4.md">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <td><a href="#">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Team Annotated Bibliography Draft</li>
         <li>Team Image or Text Storyboard Draft</li>      
         </ul></strong></a></td>
-        <td><a href="week_5_detail_oct_4.md">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary
+        <td><a href="#">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary
         <strong>
         <ul>
         <li>(if applicable) Team Annotated Bibliography Draft</li>
@@ -63,13 +63,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_1.md">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary: <strong>
+        <td><a href="#">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary: <strong>
         <ul>
         <li>(if applicable) Animatic draft</li>
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
-        <td><a href="week_6_detail_oct_11.md">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
+        <td><a href="#">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft or</li>
@@ -79,13 +79,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_18.md">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary:
+        <td><a href="#">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
-        <td><a href="week_7_detail_oct_18.md">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary
+        <td><a href="#">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft</li>
@@ -94,18 +94,18 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>8</td>     
-        <td><a href="week_8_detail_oct_25.md">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
-        <td valign="top"><a href="week_8_detail_oct_25.md">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
+        <td><a href="#">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
+        <td valign="top"><a href="#">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
     </tr>
     <tr>
         <td>9</td>      
-        <td valign="top"><a href="week_9_detail_nov_1.md">Oct 31<br>Creative Process Annotated Bibliography and Video Documentary:
+        <td valign="top"><a href="#">Oct 31<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></as></td>
-        <td><a href="week_9_detail_nov_1.md">Nov 2<br>Future Dystopia / Utopia Project:
+        <td><a href="#">Nov 2<br>Future Dystopia / Utopia Project:
         <strong>
         <ul>
         <li>Ideation</li>
@@ -118,12 +118,12 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 7<br><a href="week_10_detail_nov_8.md">Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
+        <td>Nov 7<br><a href="#">Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
         Future Dystopia / Utopia Project:
         <strong><ul>
         <li>Ideation continued</li>     
         </ul></strong></a></td>
-        <td><a href="week_10_detail_nov_8.md">Nov 9<br>Scott's gone <strong>
+        <td><a href="#">Nov 9<br>Scott's gone <strong>
         <ul>
         <li>we will figure out a solution</li>
         </ul></strong></a></td>
@@ -131,11 +131,11 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>11</td>   
         <td>Nov 14<br>
-        <a href="week_11_detail_nov_15.md">
+        <a href="#">
         <ul>
 
        <li>Get Training at Tandon's MakerSpace from 10:30 - 12pm.</li></ul></a></td>
-        <td>Nov 16<br><a href="week_11_detail_nov_15.md">
+        <td>Nov 16<br><a href="#">
         <ul>
         <li>Fabrication and process</li>
         <li>Paper prototyping</li>
@@ -143,7 +143,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><a href="week_12_detail_nov_22.md">Future Dystopia / Utopia Project:
+        <td>Nov 22<br><a href="#">Future Dystopia / Utopia Project:
         <ul>
         <li><strong>Storyboard Draft</li>
         <li>(OPTIONAL) Lo-fi Prototype Draft</li>
@@ -152,20 +152,20 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>13</td>  
-        <td><a href="week_13_detail_nov_29.md">Nov 28<br>Future Dystopia / Utopia Project:
+        <td><a href="#">Nov 28<br>Future Dystopia / Utopia Project:
         <strong><ul>
         <li><strong>Storyboard Draft</li>
         <li>Lo-fi Prototype Draft</li>
         </ul></strong></a></td>
-        <td><a href="week_13_detail_nov_29.md">Nov 30<br>Future Dystopia / Utopia Project: <strong><ul>
+        <td><a href="#">Nov 30<br>Future Dystopia / Utopia Project: <strong><ul>
         <li><strong>Storyboard Draft</li>
         <li>Lo-fi Prototype Draft</li>
         </ul></strong></a></td>
     </tr>
     <tr>
         <td>14</td>    
-        <td><a href="week_14_detail_dec_6.md">Dec 5<br>TBD</td>
-        <td>Dec 7<br><a href="week_14_detail_dec_6.md">Future Dystopia / Utopia Project: <strong><ul>      
+        <td><a href="#">Dec 5<br>TBD</td>
+        <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project: <strong><ul>      
         <li>Lo-fi Prototype Draft</li>
         </ul></strong></a></td>
     </tr>
@@ -178,7 +178,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 19<br><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>
+        <td>Dec 19<br><strong><a href="#">Future Dystopia / Utopia Project DUE</a></strong> </td>
         <td>Dec (at 10am)<strong>
 <ul>
 <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables Due</a></li>

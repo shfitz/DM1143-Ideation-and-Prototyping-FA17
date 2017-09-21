@@ -205,7 +205,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa17_assignmentname (i.e. dduff_i&d_fa17_assignmentname.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa17_assignmentname (i.e. sfitz_i&d_fa17_assignmentname.pdf)
 
 
 #### Projects

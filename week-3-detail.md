@@ -107,7 +107,7 @@ Research one or more of the following artists for inspiration and post your find
 </ul>
 
 </td>
-<td><ul><li>Write your input or output post.</li>
+<td><ul><li>Write a response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate what you watched, but discuss any epiphanies or insights that occurred while watching. For exampels, compare and contrast the process of making 2 versus 4. How does the proces of creating high profile games reflect on your own process (or does not and why)? How might it inform or change your own process (or will not and why)?</li><li>Write your input or output post.</li>
 </ul>
 </td>
 </tr>

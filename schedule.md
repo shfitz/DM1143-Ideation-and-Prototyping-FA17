@@ -153,35 +153,34 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>13</td>  
         <td><a href="#">Nov 28<br>Future Dystopia / Utopia Project:
-        <strong><ul>
-        <li><strong>Storyboard Draft</li>
-        <li>Lo-fi Prototype Draft</li>
-        </ul></strong></a></td>
-        <td><a href="#">Nov 30<br>Future Dystopia / Utopia Project: <strong><ul>
-        <li><strong>Storyboard Draft</li>
-        <li>Lo-fi Prototype Draft</li>
-        </ul></strong></a></td>
+        <ul>
+   <li> Iterate Storyboard Draft of Delivery Medium</li>
+  <li>  Iterate Lo-fi Object Prototype Draft</li>
+
+
+    </ul>
+</td>
+        <td><a href="#">Nov 30<br>Future Dystopia / Utopia Project: <ul>
+           <li> Iterate Storyboard Draft of Delivery Medium</li>
+  <li>  Iterate Lo-fi Object Prototype Draft</li>
+
+</ul>
+
+</td>
     </tr>
     <tr>
         <td>14</td>    
         <td><a href="#">Dec 5<br>TBD</td>
         <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project: <strong><ul>      
-        <li>Lo-fi Prototype Draft</li>
+        <li>Hi-fi Prototype Draft</li>
         </ul></strong></a></td>
     </tr>
     <tr>
         <td>15</td>     
         <td>Dec 12<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
         <td>Dec 14<br><br>Future Dystopia / Utopia Project: <ul>
-        <li><strong>Hi-Fidelity Prototype Draft</strong></li>      
+        <li><strong>Final Project Due</strong></li>      
         </ul></td>
     </tr>
-    <tr>
-        <td>16</td>
-        <td>Dec 19<br><strong><a href="#">Future Dystopia / Utopia Project DUE</a></strong> </td>
-        <td>Dec (at 10am)<strong>
-<ul>
-<li><a href="end-of-semester-deliverables.md">End of Semester Deliverables Due</a></li>
-</ul></strong></td>
-    </tr>
+    
 </table>

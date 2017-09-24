@@ -34,7 +34,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>3</td>    
         <td><a href="week_3_detail.md">Sep 19<br>Phase 3: Design / Sketching / Mapping: <strong>Classmate Discovery</strong></a></td>
-        <td valign="top"><a href="week_3_detail.md">Sep 21<br>Phase 1: Discovery / Inspiration / <strong>Narrative Timeline</strong> </a></td>
+        <td valign="top"><a href="week_3_detail.md">Sep 21<br>Phase 1: Discovery / Inspiration / </a></td>
     </tr>
     <tr>
         <td>4</td>

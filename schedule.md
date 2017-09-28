@@ -38,16 +38,15 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="#">Sep 26<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
-        <td><a href="#">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <td valign="top"><a href="week_4_detail.md">Sep 26<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
+        <td><a href="week_4_detail.md">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Individual Annotated Bibliography Draft</li>
-      
         </ul></strong></a></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="#">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <td><a href="week_5_detail.md">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Team Annotated Bibliography Draft</li>
         <li>Individual Image or Text Storyboard Draft</li>

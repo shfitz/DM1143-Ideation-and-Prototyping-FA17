@@ -41,6 +41,7 @@
 <tr><td valign="top">Read</td>
 <td>
 <!-- readings for Thurs-->
+<ul><li>Read <a href="http://www.artofthetitle.com/title/six-feet-under/">Art  of  the  title</a> on Six Feet Under</li></ul>
 </td>
 <td>
 

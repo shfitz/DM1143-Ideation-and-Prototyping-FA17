@@ -39,25 +39,23 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>4</td>
         <td valign="top"><a href="week_4_detail.md">Sep 26<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
-        <td><a href="week_4_detail.md">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <td><a href="week_4_detail.md">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary <em>(class cancelled)</em> <strong>
         <ul>
         <li>Individual Annotated Bibliography Draft</li>
         </ul></strong></a></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail.md">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <td><a href="week_5_detail.md">Oct 03<br />Creative Process Annotated Bibliography and Video Documentary </a>
         <ul>
-        <li>Team Annotated Bibliography Draft</li>
         <li>Individual Image or Text Storyboard Draft</li>
 <!----  <li>Team Image or Text Storyboard Draft</li>  -->    
-        </ul></strong></a></td>
-        <td><a href="#">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary
+        </ul></a></td>
+        <td><a href="week_5_detail.md">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary</a>
         <strong>
         <ul>
         <li>(if applicable) Team Annotated Bibliography Draft</li>
         <li>(if applicable) Team Image or Text Storyboard Draft</li>
-        <li>(if applicable) Animatic Draft</li>
         </ul>
         </strong></a></td>
     </tr>
@@ -65,7 +63,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td>6</td>    
         <td><a href="#">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary: <strong>
         <ul>
-        <li>(if applicable) Animatic draft</li>
+        <li>Animatic draft</li>
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>

@@ -7,6 +7,7 @@
   * [Week 2 Detail Sep 12](week_2_detail.md)
   * [Week 3 Detail](week-3-detail.md)
   * [Week 4 Detail](week-4-detail.md)
+  * [Week 5 Detail](week-5-detail.md)
 * [Assignments](assignments.md)
   * [Constant Input Choices](constant_input_choices.md)
   * [Input Map](input_map.md)

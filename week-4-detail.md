@@ -91,7 +91,9 @@
 Write your annotated bibliography draft.
 </td>
 <td>
-<!-- Due Mon next week -->
+<!-- Due Mon next week --><ul>
+<li>Write your input or output post.</li>
+</ul>
 </td>
 </tr>
 

@@ -91,6 +91,10 @@ Bring in a joint draft bibliography to class on Thursday
 </td>
   <td>
   <!-- Due Mon next week -->
-Create a draft animatic for your work
+  <ul>
+  <li>Continute working on your Creative Process Annotated Bibliography & Video Documentary.</li>
+  <li>Revise your joint bibliography</li>
+<li>Create a joint storyboard to present next  week</li>
+<li>Begin to create a joint draft animatic for your work</li>
   </td>
 </table>

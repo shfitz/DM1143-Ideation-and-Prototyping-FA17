@@ -45,6 +45,7 @@
 </td>
 <td>
 <!-- Readings for Mon-->
+Totally optional, but this comic book named <a href="https://law.duke.edu/musiccomic/download/">Theft!  A History of Music</a> is an entertaining look at the remixing of culture throughout history.
 </td>
 </tr>
 
@@ -54,6 +55,7 @@
   <td><!-- Due wed this week -->
 </td>
   <td><!-- Due next monday -->
+<a href="https://www.vox.com/videos/2017/9/21/16227280/designer-ideo-tim-brown">How to solve problems like a designer</a>
 </td>
 </tr>
 

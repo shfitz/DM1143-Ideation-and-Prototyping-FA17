@@ -76,7 +76,7 @@
 </td>
 <td>
 <!-- Due Mon next week --><ul>
-<li>Write your input or output post.</li>
+<li>Write your weekly input or output post.</li>
 </ul>
 
 </td>
@@ -87,10 +87,10 @@
   <td valign="top">do</td>
   <td>
 <!-- Due wed this week -->
-Bring in a joint draft bibliography
+Bring in a joint draft bibliography to class on Thursday
 </td>
   <td>
   <!-- Due Mon next week -->
-Create an animatic for your work
+Create a draft animatic for your work
   </td>
 </table>

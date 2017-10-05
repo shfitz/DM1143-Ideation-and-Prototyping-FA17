@@ -44,9 +44,7 @@
 <ul><li>Read <a href="http://www.artofthetitle.com/title/six-feet-under/">Art  of  the  title</a> on Six Feet Under</li></ul>
 </td>
 <td>
-
 <!-- Readings for Mon-->
-
 </td>
 </tr>
 
@@ -58,7 +56,6 @@
   <td><!-- Due next monday -->
 </td>
 </tr>
-
 
 <!-- film -->
 <tr>
@@ -78,7 +75,6 @@
 <!-- Due Mon next week --><ul>
 <li>Write your weekly input or output post.</li>
 </ul>
-
 </td>
 </tr>
 

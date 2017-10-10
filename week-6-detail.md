@@ -37,7 +37,6 @@
 <tr><td valign="top">Read</td>
 <td>
 <!-- readings for Thurs-->
-<ul><li>Read <a href="http://www.artofthetitle.com/title/six-feet-under/">Art  of  the  title</a> on Six Feet Under</li></ul>
 </td>
 <td>
 <!-- Readings for Mon-->
@@ -79,14 +78,13 @@
   <td valign="top">do</td>
   <td>
 <!-- Due wed this week -->
-Bring in a joint draft bibliography to class on Thursday
+Post your animatics to your blog. Be prepared to show and discuss on on Thursday.
 </td>
   <td>
   <!-- Due Mon next week -->
   <ul>
   <li>Continute working on your Creative Process Annotated Bibliography & Video Documentary.</li>
-  <li>Revise your joint bibliography</li>
-<li>Create a joint storyboard to present next  week</li>
-<li>Begin to create a joint draft animatic for your work</li>
+  <li>Revise and expand your joint bibliography</li>
+<li>Add video assets to your animatic</li>
   </td>
 </table>

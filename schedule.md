@@ -104,7 +104,7 @@ _The class website is the official source for all dates and assignments; the syl
         </strong></a></td>
     </tr>
      <tr>
-        <td></td><td>Nov 1 (starting @4:30pm) thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 30min appointment with me here on <strong>Nov 1 (starting @4:30pm) thru Nov 4</strong> only, not before or afterwards: </li></ul></td>
+        <td></td><td>Nov 1 thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 15 min appointment with me here on <strong>Nov 1  thru Nov 4</strong> only, not before or afterwards: </li></ul></td>
         <td>Nov 7<br><strong><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>

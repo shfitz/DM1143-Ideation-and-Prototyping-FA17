@@ -124,7 +124,6 @@ _The class website is the official source for all dates and assignments; the syl
         <td>Nov 14<br>
         <a href="#">
         <ul>
-
        <li>Get Training at Tandon's MakerSpace from 10:30 - 12pm.</li></ul></a></td>
         <td>Nov 16<br><a href="#">
         <ul>
@@ -145,18 +144,14 @@ _The class website is the official source for all dates and assignments; the syl
         <td>13</td>  
         <td><a href="#">Nov 28<br>Future Dystopia / Utopia Project:
         <ul>
-   <li> Iterate Storyboard Draft of Delivery Medium</li>
-  <li>  Iterate Lo-fi Object Prototype Draft</li>
-
-
+   <li>Iterate Storyboard Draft of Delivery Medium</li>
+  <li>Iterate Lo-fi Object Prototype Draft</li>
     </ul>
 </td>
-        <td><a href="#">Nov 30<br>Future Dystopia / Utopia Project: <ul>
+        <td><a href="#">Nov 30<br>Future Dystopia / Utopia Project:<ul>
            <li> Iterate Storyboard Draft of Delivery Medium</li>
-  <li>  Iterate Lo-fi Object Prototype Draft</li>
-
+  <li>Iterate Lo-fi Object Prototype Draft</li>
 </ul>
-
 </td>
     </tr>
     <tr>
@@ -166,8 +161,6 @@ _The class website is the official source for all dates and assignments; the syl
 <ul>      
  <li> Iterate Storyboard Draft of Delivery Medium</li>
   <li>  Iterate Lo-fi Object Prototype Draft</li>
-
-
         </ul>
 </a></td>
     </tr>
@@ -178,5 +171,4 @@ _The class website is the official source for all dates and assignments; the syl
         <li><strong>Final Project Due</strong></li>      
         </ul></td>
     </tr>
-    
 </table>

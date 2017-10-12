@@ -52,28 +52,21 @@ _The class website is the official source for all dates and assignments; the syl
 <!----  <li>Team Image or Text Storyboard Draft</li>  -->    
         </ul></a></td>
         <td><a href="week_5_detail.md">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary</a>
-        <strong>
-        <ul>
-        <li>(if applicable) Team Annotated Bibliography Draft</li>
-        <li>(if applicable) Team Image or Text Storyboard Draft</li>
-        </ul>
-        </strong></a></td>
+     </td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="#">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary: <strong>
+        <td><a href="week_6_detail.md">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary: </a><strong>
         <ul>
-        <li>Animatic draft</li>
-        <li>(if applicable) Hybrid Animatic / Video Draft</li>
+        <li>Group Stiryboard Draft</li>
         </ul>
         </strong></a></td>
-        <td><a href="#">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
+        <td><a href="week_6_detail.md">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary</a>
         <strong>
         <ul>
-        <li>Hybrid Animatic / Video Draft or</li>
-        <li>Video Draft</li>
+        <li> Animatic / Video Draft</li>
         </ul>
-        </strong></a></td>
+        </strong></td>
     </tr>
     <tr>
         <td>7</td>     

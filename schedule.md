@@ -58,7 +58,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td>6</td>    
         <td><a href="week_6_detail.md">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary: </a><strong>
         <ul>
-        <li>Group Stiryboard Draft</li>
+        <li>Group Storyboard Draft</li>
         </ul>
         </strong></a></td>
         <td><a href="week_6_detail.md">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary</a>
@@ -70,13 +70,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="#">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary:
+        <td><a href="week_7_detail.md">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
-        <td><a href="#">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary
+        <td><a href="week_7_detail.md">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft</li>

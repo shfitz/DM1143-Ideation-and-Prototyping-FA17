@@ -33,7 +33,6 @@
 <td>Due  Thurs  10/19</td>
 <td>Next week</td>
 </tr>
-
 <!-- read -->
 <tr><td valign="top">Read</td>
 <td>
@@ -43,7 +42,6 @@
 <!-- Readings for Mon-->
 </td>
 </tr>
-
 <!-- watch -->
 <tr>
   <td valign="top">watch</td>
@@ -52,7 +50,6 @@
   <td><!-- Due next monday -->
 </td>
 </tr>
-
 <!-- film -->
 <tr>
 <td valign="top">film</td>
@@ -61,7 +58,6 @@
 <td><!-- Due next monday -->
 </td>
 </tr>
-
 <!-- write -->
 <tr>
 <td valign="top">write</td>
@@ -73,7 +69,6 @@
 </ul>
 </td>
 </tr>
-
 <!-- do -->
 <tr>
   <td valign="top">do</td>
@@ -84,5 +79,6 @@
   <!-- Due Mon next week -->
   <ul>
   <li>Continute working on your Creative Process Annotated Bibliography & Video Documentary.</li>
+   <li>Make a video draft of your project.</li></ul>
   </td>
 </table>

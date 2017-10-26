@@ -85,18 +85,18 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>8</td>     
-        <td><a href="#">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
-        <td valign="top"><a href="#">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
+        <td><a href="week_8_detail.md">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
+        <td valign="top"><a href="week_8_detail.md">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
     </tr>
     <tr>
         <td>9</td>      
-        <td valign="top"><a href="#">Oct 31<br>Creative Process Annotated Bibliography and Video Documentary:
+        <td valign="top"><a href="week_9_detail.md">Oct 31<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong>
         <ul>
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></as></td>
-        <td><a href="#">Nov 2<br>Future Dystopia / Utopia Project:
+        <td><a href="week_9_detail.md">Nov 2<br>Future Dystopia / Utopia Project:
         <strong>
         <ul>
         <li>Ideation</li>
@@ -104,7 +104,7 @@ _The class website is the official source for all dates and assignments; the syl
         </strong></a></td>
     </tr>
      <tr>
-        <td></td><td>Nov 1 thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 15 min appointment with me here on <strong>Nov 1  thru Nov 4</strong> only, not before or afterwards: </li></ul></td>
+        <td></td><td>Nov 1 thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 10 min appointment with me here on <strong>Nov 1  thru Nov 4</strong> only, not before or afterwards: </li></ul></td>
         <td>Nov 7<br><strong><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>

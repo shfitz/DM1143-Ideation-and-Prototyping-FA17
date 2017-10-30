@@ -216,7 +216,6 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Input Map](input_map.md)
 * [Process Website](process_website.md)
 * [Iteration Timeline](iteration_timeline.md)
-* [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md)
 * [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
 

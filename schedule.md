@@ -104,7 +104,7 @@ _The class website is the official source for all dates and assignments; the syl
         </strong></a></td>
     </tr>
      <tr>
-        <td></td><td>Nov 1 thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 10 min appointment with me here on <strong>Nov 1  thru Nov 4</strong> only, not before or afterwards: </li></ul></td>
+        <td></td><td>Nov 1 thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 10 min appointment with me</li></ul></td>
         <td>Nov 7<br><strong><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>
@@ -124,9 +124,9 @@ _The class website is the official source for all dates and assignments; the syl
         <td>Nov 14<br>
         <a href="#">
         <ul>
-       <li>Get Training at Tandon's MakerSpace from 10:30 - 12pm.</li></ul></a></td>
+       <li>Future Dystopia / Utopia Project</li></ul></a></td>
         <td>Nov 16<br><a href="#">
-        <ul>
+        <ul><li>Future Dystopia / Utopia Project</li>
         <li>Fabrication and process</li>
         <li>Paper prototyping</li>
         </ul></a></td>
@@ -142,27 +142,15 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>13</td>  
-        <td><a href="#">Nov 28<br>Future Dystopia / Utopia Project:
-        <ul>
-   <li>Iterate Storyboard Draft of Delivery Medium</li>
-  <li>Iterate Lo-fi Object Prototype Draft</li>
-    </ul>
-</td>
+        <td><a href="#">Nov 28<br>Future Dystopia / Utopia Project:</a><ul><li>Iterate Storyboard Draft of Delivery Medium</li><li>Iterate Lo-fi Object Prototype Draft</li></ul></td>
         <td><a href="#">Nov 30<br>Future Dystopia / Utopia Project:<ul>
-           <li> Iterate Storyboard Draft of Delivery Medium</li>
-  <li>Iterate Lo-fi Object Prototype Draft</li>
-</ul>
-</td>
+           <li> Iterate Storyboard Draft of Delivery Medium</li><li>Iterate Lo-fi Object Prototype Draft</li></ul></td>
     </tr>
     <tr>
         <td>14</td>    
         <td><a href="#">Dec 5<br>TBD</td>
-        <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project: 
-<ul>      
- <li> Iterate Storyboard Draft of Delivery Medium</li>
-  <li>  Iterate Lo-fi Object Prototype Draft</li>
-        </ul>
-</a></td>
+        <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project: <ul>      <li> Iterate Storyboard Draft of Delivery Medium</li><li>  Iterate Lo-fi Object Prototype Draft</li>
+        </ul></a></td>
     </tr>
     <tr>
         <td>15</td>     
@@ -170,5 +158,4 @@ _The class website is the official source for all dates and assignments; the syl
         <td>Dec 14<br><br>Future Dystopia / Utopia Project: <ul>
         <li><strong>Final Project Due</strong></li>      
         </ul></td>
-    </tr>
-</table>
+    </tr></table>

@@ -17,15 +17,16 @@
 </tr>
 <tr>
 <td valign="top">class</td>
-<td valign="top">
-<ul> <li>Review Creative Process Annotated Bibliography & Video Documentary</li>
+<td valign="top"><!-- Tuesday-->
+<ul> <li>Creative Process Annotated Bibliography & Video Documentary Due</li>
 </ul>
 </td>
 <!-- 2nd column class -->
 <td valign="top" width="48%">
-<!-- Due Thursday class  -->
-<ul>  <li>Creative Process Annotated Bibliography & Video Documentary postmortem</li><li>Future Dystopia / Utopia Project  kickoff</li>
-
+<!-- Thursday class  -->
+<ul>  <li>Creative Process Annotated Bibliography & Video Documentary postmortem</li><li>Future Dystopia / Utopia Project kickoff</li>
+<li>Ideate Framing Story</li>
+<li>Ideate Message</li>
 </ul>
 </td>
 </tr>

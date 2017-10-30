@@ -77,7 +77,12 @@
   <td valign="top">do</td>
   <td>
 <!-- Due wed this week -->
-</td>  <li>Sign up to meet with me individually next week </li>
+</td><li>Sign up to meet with me individually next week</li>
+<li>Brainstorm Themes & Ideas</li>
+<li>Ideate Framing Story</li>
+<li>What does your imagined future look, sound, and feel like?</li>
+<li>Ideate Message</li>
+<li>What message would you transmit to the current population from the future?</li>
   <td>
   <!-- Due Mon next week -->
   <ul>

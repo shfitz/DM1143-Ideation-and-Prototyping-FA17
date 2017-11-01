@@ -105,7 +105,7 @@ _The class website is the official source for all dates and assignments; the syl
         </a></td>
     </tr>
      <tr>
-        <td></td><td>Nov 3 thru Nov 7<br>Midterm One on Ones<br> <ul><li>Schedule your midterm one on one 10 min appointment with me</li></ul></td>
+        <td></td><td>Nov 3 thru Nov 7<br>Midterm One on Ones<br> <ul><li><a href="https://calendar.google.com/calendar/selfsched?sstoken=UU5jZVJkYmh0Sk4yfGRlZmF1bHR8YThjZDQ3NjAxYjJlMDNhMWZiNTQ5OWJiYjRjMDMxYTQ">Schedule your midterm one on one 10 min appointment with me</a></li></ul></td>
         <td>Nov 7<br><strong><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>

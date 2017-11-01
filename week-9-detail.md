@@ -84,7 +84,7 @@
   <td>
   <!-- Due Mon next week -->
   <ul>
-  <li>Sign up to meet with me individually next week</li><li>Brainstorm Themes & Ideas</li>
+  <li><a href="https://calendar.google.com/calendar/selfsched?sstoken=UU5jZVJkYmh0Sk4yfGRlZmF1bHR8YThjZDQ3NjAxYjJlMDNhMWZiNTQ5OWJiYjRjMDMxYTQ">Sign up to meet with me individually</a></li><li>Brainstorm Themes & Ideas</li>
 <li>Ideate Framing Story</li>
 <li>What does your imagined future look, sound, and feel like?</li>
 <li>Ideate Message</li>

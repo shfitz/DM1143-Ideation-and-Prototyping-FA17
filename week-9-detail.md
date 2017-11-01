@@ -51,6 +51,7 @@
   <td><!-- Due wed this week -->
 </td>
   <td><!-- Due next monday -->
+  Watch all <a href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008">four of these videos from Ira Glass on storytelling</a>
 </td>
 </tr>
 <!-- film -->
@@ -68,6 +69,7 @@
 </td>
 <td>
 <!-- Due Mon next week --><ul>
+<li>Write a response to the Ira Glass on Storytelling videos and post on your process website. Do not write a summary, instead siscuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
 <li>Write your weekly input or output post.</li>
 </ul>
 </td>

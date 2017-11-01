@@ -96,15 +96,16 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></as></td>
-        <td><a href="week_9_detail.md">Nov 2<br>Future Dystopia / Utopia Project:
-        <strong>
+        <td><a href="week_9_detail.md">Nov 2<br>
         <ul>
-        <li>Ideation</li>
+        <li>Creative Process post-mortem</li>
+        <li>Future Dystopia / Utopia Project</li>
+        <li><strong>Midterm Self-Assessment DUE</strong></li>
         </ul>
-        </strong></a></td>
+        </a></td>
     </tr>
      <tr>
-        <td></td><td>Nov 1 thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 10 min appointment with me</li></ul></td>
+        <td></td><td>Nov 3 thru Nov 7<br>Midterm One on Ones<br> <ul><li>Schedule your midterm one on one 10 min appointment with me</li></ul></td>
         <td>Nov 7<br><strong><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>

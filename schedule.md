@@ -110,22 +110,20 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 7<br><a href="#">Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
+        <td>Nov 7<br><a href="#">Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
         Future Dystopia / Utopia Project:
         <strong><ul>
         <li>Ideation continued</li>     
         </ul></strong></a></td>
-        <td><a href="#">Nov 9<br>Scott's gone <strong>
-        <ul>
-        <li>we will figure out a solution</li>
-        </ul></strong></a></td>
+        <td><a href="#">Nov 9<br>No class, Scott's giving a talk in Buffalo <strong>
+       </a></td>
     </tr>
     <tr>
         <td>11</td>   
         <td>Nov 14<br>
         <a href="#">
         <ul>
-       <li>Future Dystopia / Utopia Project</li></ul></a></td>
+       <li>Future Dystopia / Utopia Project</li><li>Research, sketch and design objects</ul></a></td>
         <td>Nov 16<br><a href="#">
         <ul><li>Future Dystopia / Utopia Project</li>
         <li>Fabrication and process</li>
@@ -150,7 +148,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>14</td>    
         <td><a href="#">Dec 5<br>TBD</td>
-        <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project: <ul>      <li> Iterate Storyboard Draft of Delivery Medium</li><li>  Iterate Lo-fi Object Prototype Draft</li>
+        <td>Dec 7<br><a href="#">Future Dystopia / Utopia Project:<ul><li> Iterate Storyboard Draft of Delivery Medium</li><li>Hi-fi Object Prototype Draft</li>
         </ul></a></td>
     </tr>
     <tr>

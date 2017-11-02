@@ -110,7 +110,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 7<br><a href="#">Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
+        <td>Nov 7<br><a href="#">Research / Ideation / Brainstorming:<ul><li><strong>Storytelling</strong></li></ul>
         Future Dystopia / Utopia Project:
         <strong><ul>
         <li>Ideation continued</li>     

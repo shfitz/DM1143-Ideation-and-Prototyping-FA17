@@ -84,10 +84,10 @@
   <td>
   <!-- Due Mon next week -->
   <ul>
-  <li><a href="https://calendar.google.com/calendar/selfsched?sstoken=UU5jZVJkYmh0Sk4yfGRlZmF1bHR8YThjZDQ3NjAxYjJlMDNhMWZiNTQ5OWJiYjRjMDMxYTQ">Sign up to meet with me individually</a></li><li>Brainstorm Themes & Ideas</li>
-<li>Ideate Framing Story</li>
-<li>What does your imagined future look, sound, and feel like?</li>
-<li>Ideate Message</li>
-<li>What message would you transmit to the current population from the future?</li></ul>
-  </td>
+  <li><a href="https://calendar.google.com/calendar/selfsched?sstoken=UU5jZVJkYmh0Sk4yfGRlZmF1bHR8YThjZDQ3NjAxYjJlMDNhMWZiNTQ5OWJiYjRjMDMxYTQ">Sign up to meet with me individually</a></li><li>Brainstorm ideas for  Utopia  Project</li>
+<li>Ideate Framing Story</li><ul>
+<li>What does your imagined future look, sound, and feel like?</li></ul>
+<li>Ideate Message</li><ul>
+<li>What message would you transmit to the current population from the future?</li></ul><li>Not required, but highly recommended : sign up for <a href="https://wp.nyu.edu/makerspace/training-calendar/">Training at Tandon's makerspace</a></li></ul>
+</td>
 </table>

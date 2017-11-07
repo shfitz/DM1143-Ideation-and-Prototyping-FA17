@@ -110,12 +110,12 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 7<br><a href="#">Research / Ideation / Brainstorming:<ul><li><strong>Storytelling</strong></li></ul>
+        <td>Nov 7<br><a href="week_10_detail.md">Research / Ideation / Brainstorming:<ul><li><strong>Storytelling</strong></li></ul>
         Future Dystopia / Utopia Project:
         <strong><ul>
         <li>Ideation continued</li>     
         </ul></strong></a></td>
-        <td><a href="#">Nov 9<br>No class, Scott's giving a talk in Buffalo <strong>
+        <td><a href="week_10_detail.md">Nov 9<br>No class, Scott's giving a talk in Buffalo<strong>
        </a></td>
     </tr>
     <tr>

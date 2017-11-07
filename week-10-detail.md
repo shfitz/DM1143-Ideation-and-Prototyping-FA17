@@ -18,8 +18,8 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top"><!-- Tuesday-->
-<ul> <li>Future Dystopia / Utopia Project</li>
-<ul> <li>Discuss framing stories</li></ul>
+<ul><li>Future Dystopia / Utopia Project</li>
+<ul><li>Discuss framing stories. Large and small group feedback and workshopping.</li></ul>
 </ul>
 </td>
 <!-- 2nd column class -->

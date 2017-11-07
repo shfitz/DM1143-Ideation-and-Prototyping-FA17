@@ -65,11 +65,11 @@
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
 <ul><li>Object Evolution Timeline</li>
-<li>Begin to think of what message your object will contain, or be about. Write this out. Think abotu how it related ot your imagined future. What are you tryig to tell us?</li></ul>
+</ul>
 </td>
 <td>
 <!-- Due Mon next week --><ul>
-<ul><li>Write out your framing story. Expain what has happened between now and your future. This should be a reasonably detailed explaination, roughly a page in length.  What does your imagined future look, sound, and feel like?</li>
+<ul><li>Write out your framing story. Expain what has happened between now and your future. This should be a reasonably detailed explaination, roughly a page in length.  What does your imagined future look, sound, and feel like?</li><li>Begin to think of what message your object will contain, or be about. Write this out. Think about how it related ot your imagined future. What are you tryig to tell us?  What themes are embedded in the story you are tryig to draw out?</li>
 <li>Write your weekly input or output post.</li>
 </ul>
 </td>

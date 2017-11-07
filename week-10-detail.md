@@ -69,7 +69,7 @@
 </td>
 <td>
 <!-- Due Mon next week --><ul>
-<ul><li>Write out your framing story. Expain what has happened between now and your future. This should be a reasonably detailed explaination, roughly a page in length.  What does your imagined future look, sound, and feel like?</li><li>Begin to think of what message your object will contain, or be about. Write this out. Think about how it related ot your imagined future. What are you tryig to tell us?  What themes are embedded in the story you are tryig to draw out?</li>
+<ul><li>Write out your framing story and post it on your blog. Expain what has happened between now and your future. This should be a reasonably detailed explaination, roughly a page in length.  What does your imagined future look, sound, and feel like?</li><li>Think of what message your object will contain, or be about. Write this out. Think about how it related ot your imagined future. What are you trying to tell us?  What themes are embedded in the story you are tryig to draw out?</li>
 <li>Write your weekly input or output post.</li>
 </ul>
 </td>
@@ -79,10 +79,11 @@
   <td valign="top">do</td>
   <td>
 <!-- Due wed this week -->
-</td><ul>
+</td><ul><li>Object Evolution Timeline. <a href="https://www.wired.com/2007/03/the-evolution-of-the-computer-mouse/">This WIRED article on the history of the mouse</a> and this article on the <a href="https://www.shortlist.com/tech/gaming/history-of-the-video-game-controller/3231">evolution of video game controllers</a> are a good examples of the evolution of an object. Pick an object and trace it's history in a detailed post on your site. Think about how this relates to your project. What iterations would we not see? what gets left off? What gets added?</li>
 </ul>
   <td>
   <!-- Due Mon next week -->
-  <ul><li>Object Evolution Timeline. <a href="https://www.wired.com/2007/03/the-evolution-of-the-computer-mouse/">This WIRED article on the history of the mouse</a> and this article on the <a href="https://www.shortlist.com/tech/gaming/history-of-the-video-game-controller/3231">evolution of video game controllers</a> are a good examples of the evolution of an object. Pick an object and trace it's history in a detailed post on your site. Think about how this relates to your project. What iterations would we not see? what gets left off? What gets added?</li></ul>
+  <ul><li>Start to think about what your object is and what led to the design you're sending back.  Make sketches and post them to your blog.</li>
+</ul>
 </td>
 </table>

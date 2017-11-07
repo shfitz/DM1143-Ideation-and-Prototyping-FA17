@@ -78,9 +78,14 @@
 <tr>
   <td valign="top">do</td>
   <td>
+  
 <!-- Due wed this week -->
-</td><ul><li>Object Evolution Timeline. <a href="https://www.wired.com/2007/03/the-evolution-of-the-computer-mouse/">This WIRED article on the history of the mouse</a> and this article on the <a href="https://www.shortlist.com/tech/gaming/history-of-the-video-game-controller/3231">evolution of video game controllers</a> are a good examples of the evolution of an object. Pick an object and trace it's history in a detailed post on your site. Think about how this relates to your project. What iterations would we not see? what gets left off? What gets added?</li>
+<ul><li>Object Evolution Timeline. <a href="https://www.wired.com/2007/03/the-evolution-of-the-computer-mouse/">This WIRED article on the history of the mouse</a> and this article on the <a href="https://www.shortlist.com/tech/gaming/history-of-the-video-game-controller/3231">evolution of video game controllers</a> are a good examples of the evolution of an object. Pick an object and trace it's history in a detailed post on your site. Think about how this relates to your project. What iterations would we not see? what gets left off? What gets added?</li>
 </ul>
+
+
+
+</td>
   <td>
   <!-- Due Mon next week -->
   <ul><li>Start to think about what your object is and what led to the design you're sending back.  Make sketches and post them to your blog.</li>

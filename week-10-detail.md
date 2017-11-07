@@ -32,7 +32,7 @@
 <!-- Homework -->
 <tr>
 <td valign="top">Homework</td>
-<td>Due  Thurs  11/99</td>
+<td>Due  Fri  11/10</td>
 <td>Next week</td>
 </tr>
 <!-- read -->

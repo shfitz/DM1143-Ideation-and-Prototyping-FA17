@@ -66,7 +66,7 @@
 <tr>
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
-<ul>
+<ul><li>Write up a list of things that inspired your object. How do these things influnce your thinng of your design? Movies, books, games, exisitng objects, and so on are all fair game. </li>
 </ul>
 </td>
 <td>

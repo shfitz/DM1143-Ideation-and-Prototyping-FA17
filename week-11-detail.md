@@ -19,7 +19,8 @@
 <td valign="top">class</td>
 <td valign="top"><!-- Tuesday-->
 <ul><li>Future Dystopia / Utopia Project</li>
-<li>Review design timelines</li></ul>
+<li>Review design timelines</li>
+<li>Discuss Messages  /  Objects</li></ul>
 </td>
 <!-- 2nd column class -->
 <td valign="top" width="48%">

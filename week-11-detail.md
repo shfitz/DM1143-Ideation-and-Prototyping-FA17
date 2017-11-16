@@ -44,6 +44,7 @@
 </td>
 <td>
 <!-- Readings for Mon-->
+<ul><li>Read this <a href="https://www.nesta.org.uk/blog/speculative-design-design-niche-or-new-tool-government-innovation">article on speculative design</a> and its potentila impact. In your blog, write up how your work (not the final project but your professional work) leverage properties of speculative design? Is this something you already engage in? Or do you not find this a meaningful way to think about your work? Why not?  </li></ul>
 </td>
 </tr>
 <!-- watch -->

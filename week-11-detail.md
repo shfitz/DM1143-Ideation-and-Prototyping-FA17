@@ -81,7 +81,7 @@
   
 <!-- Due wed this week -->
 </td>
-  <td><ul><li>Now that you have one version of your project under your belt, it's time to roll up your sleeves and make another one. Identify what you want the final materials to be in your prototype. Over the weeked, start to make sketches, paper, or other lo-fi prototypes of your object. Each time you make a version, identify what wrks for you and what doesn't. Document the prototype on your blog in video or still images. Bring it to class if possible. This is still supposed to be a rough draft, don;t worry if it's not what you hoped it would be (in fact, that's pretty much the point).</li></ul>
+  <td><ul><li>Now that you have one version of your project under your belt, it's time to roll up your sleeves and make another one. Identify what you want the final materials to be in your prototype. Over the weeked, start to make sketches, paper, or other lo-fi prototypes of your object. Each time you make a version, identify what works for you and what doesn't. Document the prototype on your blog in video or still images. Bring it to class if possible. This is still supposed to be a rough draft, don't worry if it's not what you hoped it would be (in fact, that's pretty much the point).</li></ul>
   <!-- Due Mon next week -->
 </td>
 </table>

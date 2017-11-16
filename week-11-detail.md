@@ -70,7 +70,7 @@
 <ul><li>Write up a list of things that inspired your object. How do these things influnce your thinng of your design? Movies, books, games, exisitng objects, and so on are all fair game.</li></ul>
 </td>
 <td>
-<!-- Due Mon next week --><ul>
+<!-- Due Mon next week -->
 <ul><li>Look at the object you made. What about it has changed in your mind now that you have a physical prototype (albeit a crue one). What was unexpected? What worked the way you thought it would? How will you address these issues?</li><li>Write your weekly input or output post.</li></ul>
 </td>
 </tr>

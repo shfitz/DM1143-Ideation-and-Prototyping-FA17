@@ -26,7 +26,7 @@
 <td valign="top" width="48%">
 <!-- Thursday class  -->
 <ul><li>Speculative Design  ( If you find the concept of speculative design interesting, I suggest you read <a href="https://mitpress.mit.edu/books/speculative-everything">Speculative Everything</a> by Dunne and Raby. )</li>
-<li>Lo-fi/paper prototyping.  Frankenbuilds</li>
+<li>Lo-fi/paper prototyping.  Frankenbuilds</li><li><strong>Working with cardboard</strong><li><ul><li><a href="http://makingsociety.com/2014/11/cardboard-prototyping-1/">makingsociety.com: Prototyping with Cardboard (Part 1)</a></li><li><a href="http://makingsociety.com/2014/11/how-to-cut-cardboard-prototyping/">makingsociety.com: How to Cut Cardboard (Prototyping with Cardboard Part 2)</a></li><li><a hef="http://makingsociety.com/2014/11/cardboard-prototype-technique/">makingsociety.com: Prototype with Cardboard: Shaping Techniques (Part 3)</a></li></ul><li><strong>Working with clay</strong><li><ul><li><a href="http://makingsociety.com/2014/03/modelling-clay-moldable-plastic-for-prototyping/">makingsociety.com: Modelling Clay and Moldable Plastic for Prototyping</a></li></ul><li><strong>Working with LEGOs & 3d printing</strong><li><ul><li><a href="https://technabob.com/blog/2014/01/31/3d-printed-lego-prototyping/">Making Prototypes with a 3D Printer & LEGO: faBrickation</a></li></ul>
 </ul>
 </td>
 </tr>

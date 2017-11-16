@@ -25,7 +25,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <!-- Thursday class  -->
-<ul><li>Speculative Design</li>
+<ul><li>Speculative Design  ( If you find the concept of speculative design interesting, I suggest you read <a href="https://mitpress.mit.edu/books/speculative-everything">Speculative Everything</a> by Dunne and Raby. )</li>
 <li>Lo-fi/paper prototyping.  Frankenbuilds</li>
 </ul>
 </td>

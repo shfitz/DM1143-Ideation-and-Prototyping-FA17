@@ -71,7 +71,7 @@
 </td>
 <td>
 <!-- Due Mon next week -->
-<ul><li>Look at the object you made. What about it has changed in your mind now that you have a physical prototype (albeit a crue one). What was unexpected? What worked the way you thought it would? How will you address these issues?</li><li>Write your weekly input or output post.</li></ul>
+<ul><li>Look at the object you made. What about it has changed in your mind now that you have a first, lo-fi prototype. What was unexpected? What worked the way you thought it would? How will you address these issues?</li><li>Write your weekly input or output post.</li></ul>
 </td>
 </tr>
 <!-- do -->

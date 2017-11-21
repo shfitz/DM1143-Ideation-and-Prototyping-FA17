@@ -64,6 +64,7 @@ Read about the <a href="https://www.theverge.com/2017/3/30/15113162/future-utopi
 <td><!-- Due wed this week -->
 <ul><li>Write up your input/output post</li>
 <li>Continute to revise your framing story</li>
+
 </ul>
 </td>
 <td>
@@ -75,7 +76,7 @@ Read about the <a href="https://www.theverge.com/2017/3/30/15113162/future-utopi
   <td valign="top">do</td>
   <td>
 <!-- Due wed this week -->
-Bring in your revised low-fi prototypes. This will be your last week before your final presentations.
+Bring in your revised low-fi prototypes. This will be your last week before your final presentations. Also, bring in a sample of the material you will be working with for your final prototype.
 </td>
   <td>
   <!-- Due Mon next week -->

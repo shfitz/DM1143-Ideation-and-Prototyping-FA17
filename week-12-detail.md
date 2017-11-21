@@ -35,6 +35,7 @@
 <!-- read -->
 <tr><td valign="top">Read</td>
 <td>
+Read about the <a href="https://www.theverge.com/2017/3/30/15113162/future-utopia-tellart-design-agency-world-government-summit-dubai">Museum of the Future</a>. On your blog, write about how you think design will change the future. Will it be a psoitive or negative thing? (NB : this is longer than most reads in the class, dont wait until Monday night).
 <!-- readings for Thurs-->
 </td>
 <td>

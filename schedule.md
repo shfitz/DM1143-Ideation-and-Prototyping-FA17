@@ -132,7 +132,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br> <a href="week_11_detail.md">
+        <td>Nov 21<br> <a href="week_11_detail.md">
 Future Dystopia / Utopia Project:
         <ul>
         <li><strong>Storyboard Draft</li>

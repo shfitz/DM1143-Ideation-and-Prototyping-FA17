@@ -18,7 +18,7 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top"><!-- Tuesday-->
-<ul><li>Future Dystopia / Utopia Project</li></ul>
+<ul><li>Future Dystopia / Utopia Project</li><li> Lo-fi Prototype Draft of Delivery Medium</li></ul>
 </td>
 <!-- 2nd column class -->
 <td valign="top" width="48%">
@@ -61,6 +61,9 @@
 <tr>
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
+<ul><li>Write up your input/output post</li>
+<li>Continute to revise your framing story</li>
+</ul>
 </td>
 <td>
 <!-- Due Mon next week -->
@@ -70,8 +73,8 @@
 <tr>
   <td valign="top">do</td>
   <td>
-  
 <!-- Due wed this week -->
+  Bring in your low-fi prototype. This will be your last week before your final iteration/presentation.
 </td>
   <td>
   <!-- Due Mon next week -->

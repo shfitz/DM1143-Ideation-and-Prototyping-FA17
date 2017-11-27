@@ -15,6 +15,7 @@
   * [Week 10 detail](week-10-detail.md)
   * [Week 11 detail](week-11-detail.md)
   * [Week 12 detail](week-12-detail.md)
+  * [Week 13 detail](week-13-detail.md)
 * [Assignments](assignments.md)
   * [Constant Input Choices](constant_input_choices.md)
   * [Input Map](input_map.md)
@@ -27,7 +28,6 @@
 * [Projects](projects.md)
   * [Creative Process Annotated Bibliography and Video Documentary](creative_process.md)
   * [Future Dystopia Utopia Project](future.md)
-* [Printed Assignment Guidelines](printed_assignment_guidelines.md)
 * [Recommended Resources](recommended_resources.md)
 * [End of Semester Deliverables](end-of-semester-deliverables.md)
 

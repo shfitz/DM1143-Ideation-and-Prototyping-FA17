@@ -63,14 +63,14 @@
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
 <ul>
-<li>Continute to revise your framing story</li>
-<li>How will you send it back from the future?</li>
+<li>How will you send your object back from the future?</li>
+<li>Find a presentation online that resonates with you and post it to your blog. Write about what is meaningful to you in the style, not content, of the presentation. What can you take away from it? </li>
 </ul>
 </td>
 <td>
 <!-- Due Mon next week -->
-<ul><li>Write up your input/output post</li>
-
+<ul><li>Write up your Final!! input/output post</li>
+<li>Finish your framing story</li>
 </ul>
 </td>
 </tr>
@@ -79,10 +79,9 @@
   <td valign="top">do</td>
   <td>
 <!-- Due wed this week -->
-
 </td>
   <td>
-  <ull><li>prepare your final presentation</li>
+  <ull><li>prepare your presentation</li>
   <li>Bring in your completed Hi-res prototype</li></ul>
   <!-- Due Mon next week -->
 </td>

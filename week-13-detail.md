@@ -23,8 +23,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <!-- Thursday class  -->
-<ul><li>
-</li></ul>
+<ul><li>Future Dystopia / Utopia Project</li><li>Iterate Hi-fi Prototype Draft</li></ul>
 </td>
 </tr>
 <!-- Homework -->
@@ -63,13 +62,16 @@
 <tr>
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
-<ul><li>Write up your input/output post</li>
+<ul>
 <li>Continute to revise your framing story</li>
-
+<li>How will you send it back from the future?</li>
 </ul>
 </td>
 <td>
 <!-- Due Mon next week -->
+<ul><li>Write up your input/output post</li>
+
+</ul>
 </td>
 </tr>
 <!-- do -->
@@ -80,6 +82,8 @@
 
 </td>
   <td>
+  <ull><li>prepare your final presentation</li>
+  <li>Bring in your completed Hi-res prototype</li></ul>
   <!-- Due Mon next week -->
 </td>
 </table>

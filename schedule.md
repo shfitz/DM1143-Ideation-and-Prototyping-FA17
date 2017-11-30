@@ -132,7 +132,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 21<br> <a href="week_11_detail.md">
+        <td>Nov 21<br> <a href="week_12_detail.md">
 Future Dystopia / Utopia Project:
         <ul>
         <li><strong>Storyboard Draft</li>
@@ -142,8 +142,8 @@ Future Dystopia / Utopia Project:
     </tr>
     <tr>
         <td>13</td>  
-        <td><a href="#">Nov 28<br>Future Dystopia / Utopia Project:</a><ul><li>Iterate Storyboard Draft of Delivery Medium</li><li>Iterate Lo-fi Object Prototype Draft</li></ul></td>
-        <td><a href="#">Nov 30<br>Future Dystopia / Utopia Project:<ul>
+        <td><a href="week_13_detail.md">Nov 28<br>Future Dystopia / Utopia Project:</a><ul><li>Iterate Storyboard Draft of Delivery Medium</li><li>Iterate Lo-fi Object Prototype Draft</li></ul></td>
+        <td><a href="week_13_detail.md">Nov 30<br>Future Dystopia / Utopia Project:<ul>
            <li> Iterate Storyboard Draft of Delivery Medium</li><li>Iterate Lo-fi Object Prototype Draft</li></ul></td>
     </tr>
     <tr>

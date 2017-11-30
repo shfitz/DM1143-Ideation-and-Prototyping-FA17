@@ -81,7 +81,7 @@
 </td>
   <td>
   <ul><li>prepare your presentation</li>
-  <li>Bring in your Hi-res prototype</li></ul>
+  <li>Bring in your Hi-res prototype. Remember, this should be an evolution from what you showed us this week, but is still not your final version. </li></ul>
   <!-- Due Mon next week -->
 </td>
 </table>

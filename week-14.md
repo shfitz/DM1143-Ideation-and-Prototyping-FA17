@@ -70,8 +70,7 @@
 <td>
 <!-- Due Mon next week -->
 <ul><li>Get all your documents in order for your final project. Have organized for me in one post (you can link to earlier posts) your framing story, documentation of your prototype as well as details of who you made it. if you made a presentation, add links to that as well.
-
-Bring in you final object on next Thursday.</li>
+</li><li>Bring in you final object on next Thursday.</li>
 </ul>
 </td>
 </tr>

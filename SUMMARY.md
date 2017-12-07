@@ -16,6 +16,7 @@
   * [Week 11 detail](week-11-detail.md)
   * [Week 12 detail](week-12-detail.md)
   * [Week 13 detail](week-13-detail.md)
+  * [Week 14 detail](week-14.md)
 * [Assignments](assignments.md)
   * [Constant Input Choices](constant_input_choices.md)
   * [Input Map](input_map.md)

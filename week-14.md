@@ -64,7 +64,7 @@
 <td valign="top">write</td>
 <td><!-- Due wed this week -->
 <ul>
-<li></li>
+<li> Write up a response to Darius' talk in light of what we have discussed this smester. How can you relate our creative process to his? </li>
 </ul>
 </td>
 <td>
@@ -81,8 +81,7 @@
 <!-- Due wed this week -->
 </td>
   <td>
-  <ul><li>prepare your presentation</li>
-  <li>Bring in your Hi-res prototype. Remember, this should be an evolution from what you showed us this week, but is still not your final version. </li></ul>
+  <ul></ul>
   <!-- Due Mon next week -->
 </td>
 </table>

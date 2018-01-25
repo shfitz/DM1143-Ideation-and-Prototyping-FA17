@@ -2,16 +2,13 @@
 # This syllabus is subject to change!
 #### Integrated Digital Media • Technology, Culture & Society Department
 
-    Scott Fitzgerald • shf220@nyu.edu • Fall 2017
-    Tuesdays & Thursday • 8:20AM-10:30AM • 2MTC MAGNET 817 • 3 credit hrs
+    Scott Fitzgerald • shf220@nyu.edu • Spring 2018
+    Friday • 3:00pm -6:40pm • 2MTC MAGNET 824 • 3 credit hrs
     Office hours TBD
 
     Prerequisite: None
 
-#### Gitbook Repository: https://shfitz.gitbooks.io/ideation-and-prototyping/content/
-
-#### Course Management Site: http://ipf17.slack.com
-
+#### Course Slack : http://ideationprototyping.slack.com
 
 ## Welcome to Ideation &amp; Prototyping!
 
@@ -204,7 +201,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa17_assignmentname (i.e. sfitz_i&d_fa17_assignmentname.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. 
 
 
 #### Projects

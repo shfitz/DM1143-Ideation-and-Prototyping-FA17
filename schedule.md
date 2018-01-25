@@ -1,14 +1,15 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • Scott Fitzgerald • Tuesdays and Thursdays • 8:20-10:30am • 2MTC MAGNET 817
+##### Fall 2018 • Scott Fitzgerald • Friday • 3pm - 6:40pm • 2MTC MAGNET 824
 # This schedule is schedule to change!
 # Schedule
 
-_The class website is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below._
+_The class website is the official source for all dates and assignments. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below._
 
 
-**This schedule is schedule to change! All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
+**This schedule is schedule to change! All dates and assignments are subject to change at the discretion of the professor! Github and slack are the official sources for all dates and assignments.**
 
-*Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.*
+*Github & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on github and/or slack AND in person during class.*
+
 <table border="1">
 <tr>
 <th width="4%">wk</th>
